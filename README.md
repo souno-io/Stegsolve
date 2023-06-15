@@ -2,7 +2,7 @@
 
 StegSolve的升级修复版本！
 
-![](.\img.png)
+![](./img.png)
 ## 1.5 changes
 
 - 汉化部分内容
