@@ -2,6 +2,12 @@
 
 A modifed version of stegsolve
 
+## 1.5 changes
+
+- 汉化部分内容
+- 美化界面为Jetbrians风格
+- 修复原来1.4版本的帧浏览器、合并图片等功能的不显示图片bug。
+
 
 ## 1.4 changes
 

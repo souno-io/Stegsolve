@@ -6,7 +6,6 @@
         <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
       </element>
       <element id="module-output" name="stegsolve" />
-      <element id="library" level="project" name="flatlaf-3.1.1" />
     </root>
   </artifact>
 </component>
