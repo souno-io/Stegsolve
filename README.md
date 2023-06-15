@@ -1,7 +1,8 @@
 # StegSolve
 
-A modifed version of stegsolve
+StegSolve的升级修复版本！
 
+![](.\img.png)
 ## 1.5 changes
 
 - 汉化部分内容
