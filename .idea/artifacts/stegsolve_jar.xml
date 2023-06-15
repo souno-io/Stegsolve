@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stegsolve:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stegsolve_jar</output-path>
+    <root id="archive" name="stegsolve.jar">
+      <element id="module-output" name="stegsolve" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/flatlaf-3.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
