@@ -16,3 +16,8 @@ StegSolve的升级修复版本！
 - Added drag&drop zone for files
 - Added "all" option to channel planes in "Data Extract"
 - Added horizontal scrolling (Shift+Mousewheel)
+
+# Special Thanks
+Special thanks to [JetBrains](https://www.jetbrains.com) for their support to this project.
+
+[![](./assets/img/JetBrains.png)](https://www.jetbrains.com)
