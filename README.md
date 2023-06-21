@@ -20,4 +20,4 @@ StegSolve的升级修复版本！
 # Special Thanks
 Special thanks to [JetBrains](https://www.jetbrains.com) for their support to this project.
 
-[![](./assets/img/JetBrains.png)](https://www.jetbrains.com)
+[![](https://raw.githubusercontent.com/ffffffff0x/BerylEnigma/master/assets/img/JetBrains.png)](https://www.jetbrains.com)
